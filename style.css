@@ -60,6 +60,23 @@ h2 {
     border-radius: 20px;
     box-shadow: 10px 10px 20px gray;
     text-align: center;
+
+}
+
+.mission p {
+    text-align: justify;
+}
+
+#m-1 {
+    background-color: burlywood;
+}
+
+#m-2 {
+    background-color: darksalmon;
+}
+
+#m-3 {
+    background-color: palegoldenrod;
 }
 
 .mission img {
